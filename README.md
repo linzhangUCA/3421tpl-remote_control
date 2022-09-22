@@ -1,4 +1,6 @@
 # Robot Remote Control 
+Remotely control your robot moving from the entrance of LSCA 105 to the blue marker next to the south wall of the classroom.
+
 ## Instructions:
 1. (80%) Complete `teleop_keyboard.py` to enable remote control on your robot using keyboard. 
 Define keys associate with specific robot's movements (e.g., forward(),left(), right(), backward(), etc.).
